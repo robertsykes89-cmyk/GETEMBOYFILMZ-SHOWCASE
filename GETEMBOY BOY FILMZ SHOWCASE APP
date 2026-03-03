@@ -1,0 +1,736 @@
+10:03:59.639
+[info]
+%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+10:03:59.639
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+10:03:59.639
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+10:04:00.041
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+10:04:00.115
+[log]
+Initialized with empty videos
+10:04:06.111
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+10:04:06.111
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+10:04:06.111
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+10:04:06.230
+[log]
+Initialized with empty videos
+10:07:51.420
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+10:07:51.420
+[info]
+%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+10:07:51.420
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+10:07:51.789
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+10:07:51.885
+[log]
+Initialized with empty videos
+10:07:58.525
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+10:07:58.525
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+10:07:58.525
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+10:07:58.615
+[log]
+Initialized with empty videos
+10:08:05.247
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+10:08:05.247
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+10:08:05.247
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+10:08:05.299
+[log]
+Initialized with empty videos
+10:08:29.656
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+10:15:08.524
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+10:15:08.524
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+10:15:08.524
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+10:15:08.556
+[log]
+Initialized with empty videos
+10:15:20.712
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+10:15:50.401
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+10:17:40.277
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+10:17:40.277
+[info]
+%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+10:17:40.277
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+10:17:40.277
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+10:17:40.321
+[log]
+Initialized with empty videos
+10:17:46.143
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+10:17:46.143
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+10:17:46.143
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+10:17:46.229
+[log]
+Initialized with empty videos
+10:18:44.571
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+10:18:44.571
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+10:18:44.571
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+10:18:44.573
+[log]
+Initialized with empty videos
+10:19:02.108
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+10:19:02.158
+[warn]
+props.pointerEvents is deprecated. Use style.pointerEvents
+10:19:51.980
+[log]
+Video picker result: {"assets": [{"duration": 118.66, "file": [File], "fileName": "BENTLEY MIC DROP FINAL.mp4", "fileSize": 1063859215, "height": 2160, "mimeType": "video/mp4", "type": "video", "uri": "blob:https://p_pi6bnjk7dt7c3w0xrkdek.rork.live/90717782-72a3-4714-a54d-a48edca3a6df", "width": 4096}], "canceled": false}
+10:22:22.185
+[log]
+Save button pressed, canSave: true isSubmitting: false
+10:22:22.185
+[log]
+Adding new video: Bentley mic drop category: music-video
+10:22:22.190
+[log]
+Current videos count: 0
+10:22:22.190
+[log]
+Video added successfully, new count: 1
+10:22:22.214
+[log]
+Video saved result: {"aspectRatio": "16:9", "category": "music-video", "credits": {"artist": "Bentley-SINATE SOUND RECORDINGS ", "cinematographer": "Robert Syke -GETEMBOY FILMZ", "director": "Robert Syke-GETEMBOY FILMZ", "editor": "Robert Sykes-GETEMBOY FILMZ"}, "description": "Sinate sound recordings ", "duration": "0:00", "id": "1772464942151-3o2gfwgkp", "thumbnail": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80", "title": "Bentley mic drop", "videoUrl": "blob:https://p_pi6bnjk7dt7c3w0xrkdek.rork.live/90717782-72a3-4714-a54d-a48edca3a6df", "year": 2026}
+10:22:28.337
+[log]
+⚠️ [33m[expo-av]: Video component from `expo-av` is deprecated in favor of `expo-video`. See the documentation at https://docs.expo.dev/versions/latest/sdk/video/ for the new API reference.
+10:23:39.205
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+10:23:39.205
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+10:23:39.205
+[log]
+Loaded videos from storage: 1
+10:23:39.205
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+10:23:47.396
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+10:23:47.442
+[log]
+⚠️ [33m[expo-av]: Video component from `expo-av` is deprecated in favor of `expo-video`. See the documentation at https://docs.expo.dev/versions/latest/sdk/video/ for the new API reference.
+10:23:47.504
+[debug]
+Sending error to parent via postMessage: {"error": {"colno": "Unknown column", "filename": "Unknown file", "lineno": "Unknown line", "message": "Unknown error"}, "errorInfo": undefined, "referrer": "https://rork.com/"}
+10:23:54.695
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+10:23:54.695
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+10:23:54.695
+[log]
+Loaded videos from storage: 1
+10:23:54.695
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+10:23:58.743
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+10:23:58.803
+[log]
+⚠️ [33m[expo-av]: Video component from `expo-av` is deprecated in favor of `expo-video`. See the documentation at https://docs.expo.dev/versions/latest/sdk/video/ for the new API reference.
+10:23:58.869
+[debug]
+Sending error to parent via postMessage: {"error": {"colno": "Unknown column", "filename": "Unknown file", "lineno": "Unknown line", "message": "Unknown error"}, "errorInfo": undefined, "referrer": "https://rork.com/"}
+10:24:09.465
+[debug]
+Sending error to parent via postMessage: {"error": {"colno": "Unknown column", "filename": "Unknown file", "lineno": "Unknown line", "message": "Unknown error"}, "errorInfo": undefined, "referrer": "https://rork.com/"}
+10:24:17.858
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+10:24:39.949
+[warn]
+props.pointerEvents is deprecated. Use style.pointerEvents
+10:25:09.034
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+10:25:09.034
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+10:25:09.034
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+10:25:09.039
+[log]
+Loaded videos from storage: 1
+10:25:24.492
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+10:25:24.595
+[log]
+⚠️ [33m[expo-av]: Video component from `expo-av` is deprecated in favor of `expo-video`. See the documentation at https://docs.expo.dev/versions/latest/sdk/video/ for the new API reference.
+10:25:24.636
+[debug]
+Sending error to parent via postMessage: {"error": {"colno": "Unknown column", "filename": "Unknown file", "lineno": "Unknown line", "message": "Unknown error"}, "errorInfo": undefined, "referrer": "https://rork.com/"}
+11:10:57.732
+[log]
+Initialized with empty videos
+11:10:57.732
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+11:10:57.732
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+11:10:57.732
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+11:11:11.453
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+11:11:11.453
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+11:11:11.453
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+11:11:11.476
+[log]
+Initialized with empty videos
+11:11:28.244
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+15:57:46.065
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+15:57:46.065
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+15:57:46.065
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+15:57:46.140
+[log]
+Initialized with empty videos
+16:00:44.025
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+16:00:44.025
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+16:00:44.025
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+16:00:44.025
+[log]
+Initialized with empty videos
+16:01:48.439
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+16:01:48.439
+[log]
+Initialized with empty videos
+16:01:48.439
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+16:01:48.439
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+16:02:02.786
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+16:02:02.856
+[warn]
+props.pointerEvents is deprecated. Use style.pointerEvents
+16:02:38.096
+[log]
+Auto-set YouTube thumbnail for video: FQXDY65v0Ys
+16:02:53.996
+[log]
+Adding new video: Bentley mic drop  category: music-video
+16:02:53.996
+[log]
+Save button pressed, canSave: true isSubmitting: false
+16:02:53.996
+[log]
+Current videos count: 0
+16:02:54.002
+[log]
+Video added successfully, new count: 1
+16:02:54.028
+[log]
+Video saved result: {"aspectRatio": "16:9", "category": "music-video", "credits": {"artist": undefined, "cinematographer": undefined, "director": "GETEMBOY", "editor": undefined}, "description": "", "duration": "0:00", "id": "1772485373911-1ah3xv6e0", "thumbnail": "https://img.youtube.com/vi/FQXDY65v0Ys/hqdefault.jpg", "title": "Bentley mic drop ", "videoUrl": "https://youtu.be/FQXDY65v0Ys", "year": 2026}
+16:04:54.953
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+16:04:54.953
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+16:04:54.953
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+16:04:55.087
+[log]
+Initialized with empty videos
+16:05:25.041
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+16:05:25.048
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+16:05:25.048
+[log]
+Loaded videos from storage: 1
+16:05:25.048
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+16:05:57.713
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+16:07:49.087
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+16:07:49.087
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+16:07:49.087
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+16:07:49.087
+[log]
+Loaded videos from storage: 1
+16:08:01.143
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+16:08:22.826
+[warn]
+props.pointerEvents is deprecated. Use style.pointerEvents
+16:08:41.256
+[debug]
+Sending error to parent via postMessage: {"error": "Cannot find single active touch.", "errorInfo": undefined, "referrer": "https://rork.com/"}
+16:08:41.256
+[error]
+Cannot find single active touch.
+16:08:41.735
+[debug]
+Sending error to parent via postMessage: {"error": "Cannot find single active touch.", "errorInfo": undefined, "referrer": "https://rork.com/"}
+16:08:41.745
+[error]
+Cannot find single active touch.
+16:09:51.268
+[log]
+Save button pressed, canSave: true isSubmitting: false
+16:09:51.268
+[log]
+Adding new video: Ai music  category: music-video
+16:09:51.268
+[log]
+Video added successfully, new count: 2
+16:09:51.268
+[log]
+Current videos count: 1
+16:09:51.285
+[log]
+Video saved result: {"aspectRatio": "16:9", "category": "music-video", "credits": {"artist": undefined, "cinematographer": undefined, "director": "GETEMBOY films", "editor": undefined}, "description": "Produced by getemboyondabeat 
+", "duration": "0:00", "id": "1772485791178-z4ci7x5fy", "thumbnail": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80", "title": "Ai music ", "videoUrl": "https://www.tiktok.com/t/ZThW3LaK6/", "year": 2026}
+16:10:07.895
+[log]
+⚠️ [33m[expo-av]: Video component from `expo-av` is deprecated in favor of `expo-video`. See the documentation at https://docs.expo.dev/versions/latest/sdk/video/ for the new API reference.
+16:10:08.667
+[debug]
+Sending error to parent via postMessage: {"error": {"colno": "Unknown column", "filename": "Unknown file", "lineno": "Unknown line", "message": "Unknown error"}, "errorInfo": undefined, "referrer": "https://rork.com/"}
+16:10:23.180
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+16:10:23.180
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+16:10:23.180
+[log]
+Loaded videos from storage: 2
+16:10:23.180
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+16:10:26.794
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+16:10:26.839
+[log]
+⚠️ [33m[expo-av]: Video component from `expo-av` is deprecated in favor of `expo-video`. See the documentation at https://docs.expo.dev/versions/latest/sdk/video/ for the new API reference.
+16:10:27.414
+[debug]
+Sending error to parent via postMessage: {"error": {"colno": "Unknown column", "filename": "Unknown file", "lineno": "Unknown line", "message": "Unknown error"}, "errorInfo": undefined, "referrer": "https://rork.com/"}
+16:11:14.297
+[log]
+Loaded videos from storage: 2
+16:11:14.297
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+16:11:14.297
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+16:11:14.297
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+16:12:31.206
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+16:12:31.206
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+16:12:31.206
+[log]
+Loaded videos from storage: 2
+16:12:31.206
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+16:12:36.906
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+16:12:38.727
+[warn]
+props.pointerEvents is deprecated. Use style.pointerEvents
+16:18:11.866
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+16:18:11.866
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+16:18:11.866
+[log]
+Initialized with empty videos
+16:18:11.866
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+16:20:47.196
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+16:20:47.196
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+16:20:47.196
+[log]
+Initialized with empty videos
+16:20:47.196
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+19:00:09.408
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+19:00:09.408
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+19:00:09.408
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+19:00:09.408
+[info]
+%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+19:00:09.493
+[log]
+Initialized with empty videos
+19:01:52.706
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+19:01:52.706
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+19:01:52.706
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+19:01:52.706
+[log]
+Initialized with empty videos
+19:01:54.095
+[warn]
+Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md
+19:01:58.046
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+19:01:58.046
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+19:01:58.046
+[log]
+Initialized with empty videos
+19:01:58.046
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+20:55:47.258
+[log]
+Initialized with empty videos
+20:55:47.143
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+20:55:47.143
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+20:55:47.143
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+20:56:59.846
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+20:56:59.836
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+20:56:59.836
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+20:56:59.996
+[log]
+Initialized with empty videos
+20:57:06.494
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+20:57:06.494
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+20:57:06.494
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+20:57:06.532
+[log]
+Initialized with empty videos
+21:06:15.202
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+21:06:15.202
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+21:06:15.202
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+21:06:15.202
+[log]
+Initialized with empty videos
+21:22:58.512
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+21:22:58.512
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+21:22:58.512
+[info]
+%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+21:22:58.512
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+21:22:58.580
+[log]
+Initialized with empty videos
+21:24:12.612
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+21:24:12.612
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+21:24:12.612
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+21:24:12.784
+[log]
+Initialized with empty videos
+21:47:06.395
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+21:47:06.395
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+21:47:06.395
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+21:47:06.498
+[log]
+Initialized with empty videos
+21:47:38.338
+[log]
+Running "main" with {"rootTag":21,"initialProps":{"exp":{"manifestString":"{\"extra\":{\"eas\":{},\"scopeKey\":\"@anonymous\\/rork-pi6bnjk7dt7c3w0xrkdek\",\"expoClient\":{\"extra\":{\"router\":{\"origin\":false}},\"orientation\":\"default\",\"version\":\"1.0.0\",\"userInterfaceStyle\":\"automatic\",\"newArchEnabled\":true,\"ios\":{\"supportsTablet\":true},\"experiments\":{\"typedRoutes\":true},\"hostUri\":\"p_pi6bnjk7dt7c3w0xrkdek.rork.live\",\"android\":{\"adaptiveIcon\":{\"foregroundImageUrl\":\"http:\\/\\/p_pi6bnjk7dt7c3w0xrkdek.rork.live\\/assets\\/assets\\/images\\/adaptive-icon.png\",\"foregroundImage\":\".\\/assets\\/images\\/adaptive-icon.png\",\"backgroundColor\":\"#ffffff\"}},\"plugins\":[\"expo-router\"],\"icon\":\".\\/assets\\/images\\/icon.png\",\"slug\":\"getemboy-filmz-showcase\",\"scheme\":\"myapp\",\"splash\":{\"resizeMode\":\"contain\",\"backgroundColor\":\"#ffffff\",\"image\":\".\\/assets\\/images\\/splash-icon.png\",\"imageUrl\":\"http:\\/\\/p_pi6bnjk7dt7c3w0xrkdek.rork.live\\/assets\\/assets\\/images\\/splash-icon.png\"},\"platforms\":[\"ios\",\"android\",\"web\"],\"iconUrl\":\"http:\\/\\/p_pi6bnjk7dt7c3w0xrkdek.rork.live\\/assets\\/assets\\/images\\/icon.png?snapshotId=src_fb5744b8c75638a76\",\"sdkVersion\":\"54.0.0\",\"name\":\"GetEmBoy Filmz Showcase\"},\"expoGo\":{\"developer\":{\"projectRoot\":\"\\/rork\",\"tool\":\"expo-cli\"},\"__flipperHack\":\"React Native packager is running\",\"mainModuleName\":\"node_modules\\/expo-router\\/entry\",\"packagerOpts\":{\"dev\":true},\"debuggerHost\":\"p_pi6bnjk7dt7c3w0xrkdek.rork.live\"}},\"isVerified\":true,\"createdAt\":\"2026-03-03T02:47:32.171Z\",\"id\":\"8880c054-dcbb-4a6d-94fd-f2f0173eec98\",\"assets\":[],\"launchAsset\":{\"key\":\"bundle\",\"contentType\":\"application\\/javascript\",\"url\":\"http:\\/\\/p_pi6bnjk7dt7c3w0xrkdek.rork.live\\/node_modules\\/expo-router\\/entry.bundle?platform=ios&dev=true&lazy=true&minify=false&runModule=true&modulesOnly=false&transform.routerRoot=app\"},\"metadata\":{},\"runtimeVersion\":\"exposdk:54.0.0\"}","shell":false,"initialUri":"exp://p_pi6bnjk7dt7c3w0xrkdek.rork.live","appOwnership":"expo"}},"fabric":true}
+21:47:38.358
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+21:47:38.428
+[log]
+Initialized with empty videos
+21:50:44.987
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+21:50:44.987
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+21:50:44.987
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+21:50:46.378
+[log]
+[webview] Logs will also appear in the Safari/Chrome debug console
+21:50:46.378
+[log]
+Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+21:50:46.378
+[warn]
+[expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality.
+21:50:46.546
+[log]
+Initialized with empty videos
